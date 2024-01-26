@@ -55,12 +55,12 @@ body {
     flex-grow: 1;
 }
 
-.menu-info h3{
+.product h3{
     color:#333;
     font-weight: bold;
 }
 
-.menu-info p {
+.product p {
     margin: 10px 0;
 }
 
@@ -70,7 +70,7 @@ body {
     margin-right: 20px;
 }
 
-.price-and-button {
+.price-button {
     display: flex;
     flex-direction: row;
     align-items: center;
